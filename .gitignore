@@ -18,3 +18,11 @@
 
 # Compiled handouts
 /handout/*.pdf
+
+# Generated programs, outputs, and local experiment notes
+/build/
+/sandpile.exe
+/identity.png
+/perf.data*
+/experiment-log.md
+__pycache__/
